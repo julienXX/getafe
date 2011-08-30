@@ -137,7 +137,7 @@ hi ColorColumn                     guibg=#5A7085                                
 hi Cursor          guifg=#1B1D1E   guibg=#FF500E                       ctermfg=234     ctermbg=202
 hi CursorLine                      guibg=#000000                                       ctermbg=15
 hi Directory       guifg=#01B0F0                                       ctermfg=39
-hi VertSplit       guifg=#F8FFF9   guibg=#5A7085                       ctermfg=15      ctermbg=60
+hi VertSplit       guifg=#5A7085   guibg=#5A7085                       ctermfg=15      ctermbg=60
 hi Folded          guifg=#5A7085   guibg=#FFDC00                       ctermfg=60      ctermbg=220
 hi IncSearch       guifg=#1B1D1E   guibg=#a7a7a7                       ctermfg=234     ctermbg=248
 hi LineNr          guifg=#5A7085   guibg=#000000                       ctermfg=60      ctermbg=0
